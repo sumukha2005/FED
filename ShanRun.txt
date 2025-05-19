@@ -1,0 +1,87 @@
+
+Website Brief for ShanRun Earthmovers
+
+Purpose & Overview:
+This website is for a newly established construction company, aiming to create an online presence, build trust, and attract potential clients. It will serve as an online brochure, showcasing the company’s services and past work, while also making it easy for visitors to reach out.
+
+Target Audience:
+homeowners, property developers, businesses
+
+Business Goals:
+- Build credibility in the local market
+- Display services and portfolio
+- Encourage contact and inquiries
+
+Required Pages
+
+1. Home Page
+   A clean, welcoming introduction to the company with a summary of services, a featured project image or slider, and a call to action.
+[tagline:Where Ideas Meet Excellence.]
+
+2. About Us
+ShanRun Earthmovers began as a dream—a vision carried by a young entrepreneur determined to build something meaningful. In July 2023, Tharun Needig M. N., a 22-year-old from Mayasandra, set out on this journey armed with an ITI degree and an unwavering sense of purpose. His goal was never just to establish another company—it was to create something lasting, something that would stand as a testament to his hard work and dedication.
+
+The beginning was far from easy. Tharun started alone, navigating the uncertainties of entrepreneurship with no prior experience to guide him. There were challenges at every turn, moments of doubt, and times when the weight of responsibility seemed overwhelming. But with determination as his strongest asset, he continued to push forward, refusing to let obstacles define his path.
+
+Then,everything changed. His childhood friend, Shashank J,recognized the passion behind ShanRun Earthmovers and stepped in, not just as a partner but as someone who shared the same aspirations. With their combined efforts, the company took its first real steps toward growth. It was no longer just one man’s dream—it became a shared vision, strengthened by collaboration and trust.
+
+Each day brought new lessons, hurdles to overcome, and victories to celebrate. Through persistence, adaptability, and a commitment to excellence, ShanRun Earthmovers carved out its place in the industry. The road ahead remains challenging, but for Tharun and Shashank, the journey is only just beginning. More than a business, ShanRun Earthmovers represents the belief that dreams, when pursued with determination and hard work, can take root and flourish.
+Brick by brick, the legacy grows.
+
+3. Services
+Excavation and Site Preparation – Clearing and leveling land for construction projects, including digging foundations and trenches.
+Demolition Services – Safe and efficient removal of existing structures to prepare for new construction.
+Earthmoving and Grading – Moving and shaping soil, gravel, and other materials to ensure proper land elevation and stability.
+Road and Infrastructure Development – Construction of roads, bridges, drainage systems, and other infrastructure projects.
+Rock and Debris Removal – Clearing large rocks, debris, and waste materials from construction sites.
+Land Reclamation and Landscaping – Restoring disturbed land and shaping terrain for aesthetic and functional purposes.
+Foundation and Piling Works – Preparing strong structural bases for buildings and other structures.
+Heavy Equipment Rentals – Providing machinery such as bulldozers, excavators, loaders, and dump trucks for various projects.
+Material Transportation and Hauling – Moving construction materials, soil, sand, gravel, and other heavy loads efficiently.
+Pipeline and Utility Installation – Laying pipelines, sewer systems, and underground utilities for industrial and residential areas.
+
+
+4. Projects / Gallery
+A visual showcase of past and current work, possibly with a slider.
+   
+
+5. Contact Page
+   contact number: 7975332626,8660675962
+   email: sribalajigroups17@gmail.com
+   address: Mayasandra, Turuvekere taluk,Tumkur District ,Karnataka - 572125
+   location :https://maps.app.goo.gl/Puw3NarK8kMEpkZE6
+   - The contact form can also appear in a pop-up modal (triggered by a button) for ease of access.
+   
+6. Testimonials / Reviews
+   Visitors can submit reviews via a form. These reviews will not appear immediately — they will be reviewed by the admin first.
+   [Optional: Insert example testimonials if you have any]
+
+Features & Functionality:
+- Responsive Design: Works well on mobile and desktop
+- Smooth Animations: Fade-ins and transitions for a modern, polished feel
+- Image Slider/Carousel: For highlighting project photos
+- Pop-Up Modal for Contact Form: Clean, non-intrusive way to reach out
+- Google Maps Integration: To show your location or service coverage
+- Testimonial Submission with Admin Review: Lets customers submit feedback, which you can moderate
+
+Design & Visual Style
+- Style Preference: Clean, modern, and professional
+- Colors: [Insert your brand colors if known]
+- Fonts: [Insert font ideas or leave blank if you’re open to suggestions]
+- Tone: Trustworthy, capable, and approachable
+- Logo: [Insert or link to your logo if available]
+- Photos: [Insert or upload photos of your projects, site, or team]
+
+Technical Details:
+- Frontend Stack: HTML, CSS, JavaScript
+- CSS Framework: Open to using Bootstrap or Tailwind CSS for faster and responsive design
+- JavaScript: Vanilla JS is enough for now (sliders, modals, simple interactions)
+- Hosting: Static site hosting (e.g., GitHub Pages or Netlify)
+- Future Plans: May include backend features later like a job application form, quote calculator, or admin dashboard
+
+Notes & To-Do:
+- Logo: [To be provided by you]
+- Image assets: [To be provided by you]
+- Brand colors and fonts: [To be defined or left to the designer’s suggestion]
+- Copywriting/Text content: [You can draft or ask for help writing this]
+- Domain name: [Insert domain if purchased, or ask for suggestions]
